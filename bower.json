@@ -1,0 +1,24 @@
+{
+  "name": "Math.uuid.js",
+  "version": "1.4",
+  "homepage": "http://www.broofa.com/Tools/Math.uuid.js",
+  "authors": [
+    "Robert Kieffer <robert@broofa.com>"
+  ],
+  "description": "Simple, fast generation of UUIDS.",
+  "main": "./Math.uuid.js",
+  "keywords": [
+    "uuid"
+  ],
+  "license": "GPL",
+  "dependencies": {
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
+
