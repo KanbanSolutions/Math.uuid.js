@@ -12,7 +12,7 @@
   ],
   "license": "MIT, GPL",
   "dependencies": {
-    "jquery": "jQuery"
+    "jquery": "jQuery#~1.11",
   },
   "ignore": [
     "**/.*",
