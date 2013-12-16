@@ -11,6 +11,9 @@
     "uuid"
   ],
   "license": "MIT, GPL",
+  "dependencies": {
+    "jquery": "jQuery"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
