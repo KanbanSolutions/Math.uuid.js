@@ -10,9 +10,7 @@
   "keywords": [
     "uuid"
   ],
-  "license": "GPL",
-  "dependencies": {
-  },
+  "license": "MIT, GPL",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -21,4 +19,3 @@
     "tests"
   ]
 }
-
